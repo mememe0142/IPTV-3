@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF: -1 tvg-logo="https://s3images.coroflot.com/user_files/individual_files/projects/301095_597054_cover_YhpudJS.gif" group-title="Undefined", Oxygen HD
+#EXTINF: -1 group-title="Undefined", Oxygen HD
 http://iptv.nonoip.com:7000/jamila/jamila123/17673?checkedby:iptvcat.com
 #EXTINF: -1 tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="Undefined", MBC
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8?checkedby:list.iptvcat.com
