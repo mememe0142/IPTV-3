@@ -222,3 +222,9 @@ https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8?ch
 
 #EXTINF: -1 tvg-logo="https://lanacanal.tv/lana/wp-content/uploads/2020/05/Lana-Logo-Header.png" group-title="Syria", Lana TV
 https://stream.lanacanal.tv:444/hls/lana.m3u8
+#EXTINF: -1 tvg-logo="https://lanacanal.tv/LanaTVPlus/wp-content/uploads/2019/09/Untitled-1.png" group-title="Syria", Lana TV Plus
+http://she3a.local-hd.com:8080/player/?id=1544&autoPlay=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rKTE8Qw.png" group-title="Syria",Syria TV
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://lh3.googleusercontent.com/proxy/IDVmz0Wrf-IXeAvcZ7WTWi5wdPvbRgtu-mgRE9lmz4fpjtS1WclQHEFrEZsa9MOQoBtkDuk7JNGW5ZwPK1_Fkfzh-YUfUADbtAozqaJlR9miorA_-g" group-title="Syria",Syrian Satellite
+http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/620?checkedby:iptvcat.com
