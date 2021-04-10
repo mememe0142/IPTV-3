@@ -219,3 +219,6 @@ https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8?checkedby:list.iptvcat.com
 #EXTINF: -1 tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="Religious", Iqraa Europe Africa
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8?checkedby:list.iptvcat.com
+
+#EXTINF: -1 tvg-logo="https://lanacanal.tv/lana/wp-content/uploads/2020/05/Lana-Logo-Header.png" group-title="Syria", Lana TV
+https://stream.lanacanal.tv:444/hls/lana.m3u8
