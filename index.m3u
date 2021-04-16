@@ -1,6 +1,8 @@
 #EXTM3U 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="Undefined", MBC
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8?checkedby:list.iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://almagd.tv/images/logo.png" group-title="Undefined", Al-Magid TV
+https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/F5U9qpf.png" group-title="Undefined", Dubai Zaman
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman&checkedby:list.iptvcat.com
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rVYdkth.jpg" group-title="Undefined", HAWAS TV (1280×720)
