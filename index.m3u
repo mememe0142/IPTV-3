@@ -1,8 +1,6 @@
 #EXTM3U 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="Undefined", MBC
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8?checkedby:list.iptvcat.com
-#EXTINF: -1 tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="Undefined", MBC 23
-https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/F5U9qpf.png" group-title="Undefined", Dubai Zaman
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman&checkedby:list.iptvcat.com
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rVYdkth.jpg" group-title="Undefined", HAWAS TV (1280×720)
@@ -217,10 +215,13 @@ https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e4
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8?checkedby:list.iptvcat.com
 #EXTINF: -1 tvg-logo="https://i.imgur.com/fMjhK06.png" group-title="Entertainment", MBC Bollywood
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8?checkedby:list.iptvcat.com
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="Religious", Iqraa
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8?checkedby:list.iptvcat.com
 #EXTINF: -1 tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="Religious", Iqraa Europe Africa
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8?checkedby:list.iptvcat.com
+#EXTINF: -1 tvg-logo="https://almagd.tv/images/logo.png" group-title="Religious", Almagd TV قناة المجد 
+https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://lanacanal.tv/lana/wp-content/uploads/2020/05/Lana-Logo-Header.png" group-title="Syria", Lana TV
 https://stream.lanacanal.tv:444/hls/lana.m3u8
