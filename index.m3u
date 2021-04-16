@@ -181,8 +181,6 @@ https://list.iptvcat.com/assets/videos/lazycat-iptvcat.com.mp4
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8?checkedby:list.iptvcat.com
 #EXTINF: -1 group-title="News", Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna_720.m3u8?checkedby:list.iptvcat.com
-#EXTINF: -1 group-title="News", makkah
-http://f24hls-i.akamaihd.net/hls/live/221196/F24_AR_LO_HLS/master_900.m3u8?checkedby:list.iptvcat.com
 #EXTINF: -1 group-title="Sport", Al Kass Sports
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1&checkedby:list.iptvcat.com
 #EXTINF: -1 group-title="Sport", Al Kass Sports 3
